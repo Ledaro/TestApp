@@ -1,0 +1,7 @@
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\bin\Debug\netstandard2.0\CalculatorProject.deps.json
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\bin\Debug\netstandard2.0\CalculatorProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\bin\Debug\netstandard2.0\CalculatorProject.pdb
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\obj\Debug\netstandard2.0\CalculatorProject.AssemblyInfoInputs.cache
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\obj\Debug\netstandard2.0\CalculatorProject.AssemblyInfo.cs
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\obj\Debug\netstandard2.0\CalculatorProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorProject\obj\Debug\netstandard2.0\CalculatorProject.pdb

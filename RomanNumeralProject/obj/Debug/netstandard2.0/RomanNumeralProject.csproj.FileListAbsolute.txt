@@ -1,0 +1,8 @@
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\bin\Debug\netstandard2.0\RomanNumeralProject.deps.json
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\bin\Debug\netstandard2.0\RomanNumeralProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\bin\Debug\netstandard2.0\RomanNumeralProject.pdb
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\obj\Debug\netstandard2.0\RomanNumeralProject.AssemblyInfoInputs.cache
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\obj\Debug\netstandard2.0\RomanNumeralProject.AssemblyInfo.cs
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\obj\Debug\netstandard2.0\RomanNumeralProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\obj\Debug\netstandard2.0\RomanNumeralProject.pdb
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralProject\obj\Debug\netstandard2.0\RomanNumeralProject.csprojAssemblyReference.cache

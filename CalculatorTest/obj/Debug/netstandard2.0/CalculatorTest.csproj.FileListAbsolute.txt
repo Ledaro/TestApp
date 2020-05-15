@@ -1,0 +1,15 @@
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\CalculatorTest.deps.json
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\CalculatorTest.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\CalculatorTest.pdb
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\CalculatorProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\bin\Debug\netstandard2.0\CalculatorProject.pdb
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.csprojAssemblyReference.cache
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.AssemblyInfoInputs.cache
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.AssemblyInfo.cs
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.csproj.CopyComplete
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.dll
+C:\Users\fzela\source\repos\CalculatorProject\CalculatorTest\obj\Debug\netstandard2.0\CalculatorTest.pdb

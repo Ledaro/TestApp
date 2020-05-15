@@ -1,0 +1,15 @@
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\RomanNumeralProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\obj\Debug\netstandard2.0\RomanNumeralTest.AssemblyInfoInputs.cache
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\obj\Debug\netstandard2.0\RomanNumeralTest.AssemblyInfo.cs
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\RomanNumeralTest.deps.json
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\RomanNumeralTest.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\RomanNumeralTest.pdb
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\bin\Debug\netstandard2.0\RomanNumeralProject.pdb
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\obj\Debug\netstandard2.0\RomanNumeralTest.csprojAssemblyReference.cache
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\obj\Debug\netstandard2.0\RomanNumeralTest.csproj.CopyComplete
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\obj\Debug\netstandard2.0\RomanNumeralTest.dll
+C:\Users\fzela\source\repos\CalculatorProject\RomanNumeralTest\obj\Debug\netstandard2.0\RomanNumeralTest.pdb

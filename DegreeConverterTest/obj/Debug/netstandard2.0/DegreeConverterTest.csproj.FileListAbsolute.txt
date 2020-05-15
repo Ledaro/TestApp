@@ -1,0 +1,15 @@
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\DegreeConverterTest.deps.json
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\DegreeConverterTest.dll
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\obj\Debug\netstandard2.0\DegreeConverterTest.csprojAssemblyReference.cache
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\obj\Debug\netstandard2.0\DegreeConverterTest.AssemblyInfoInputs.cache
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\obj\Debug\netstandard2.0\DegreeConverterTest.AssemblyInfo.cs
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\DegreeConverterTest.pdb
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\DegreeConverterProject.dll
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\bin\Debug\netstandard2.0\DegreeConverterProject.pdb
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\obj\Debug\netstandard2.0\DegreeConverterTest.csproj.CopyComplete
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\obj\Debug\netstandard2.0\DegreeConverterTest.dll
+C:\Users\fzela\source\repos\CalculatorProject\DegreeConverterTest\obj\Debug\netstandard2.0\DegreeConverterTest.pdb
