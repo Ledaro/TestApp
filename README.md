@@ -1,4 +1,4 @@
-![Covid-19](https://github.com/Ledaro/TestApp/CalculatorProject/nunit.png)
+![nunit](https://github.com/Ledaro/TestApp/blob/master/nunit.png)
 
 
 
